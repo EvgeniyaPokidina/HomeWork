@@ -5,7 +5,6 @@ using Microsoft.Extensions.Options;
 
 
 
-
 List<User> users = new List<User>()
 {
     new User(1, "Ivan","Ivanov","ivan@mail.ru",45),
